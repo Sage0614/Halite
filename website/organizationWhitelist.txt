@@ -92,3 +92,4 @@ DoubleDutch - doubledutch.me
 RWTH Aachen - rwth-aachen.de
 University of Aveiro - ua.pt
 Allstate - allstate.com 
+Baruch - baruchmail.cuny.edu
